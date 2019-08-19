@@ -15,6 +15,9 @@ playground.xcworkspace
 
 .build/
 
+Pods/
+*.xcworkspace
+
 Carthage/Build/
 
 # Accio dependency management
